@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in **Full Stack Development (JS)**
 
-- 📚 I'm currently working/learning in & as **MERN Stack Developer**
+- 📚 I'm currently working & learning as **MERN Stack Developer**
 
 - 📫 How to reach me **umar.sarwar96@gmail.com**
 
